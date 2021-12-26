@@ -1,0 +1,542 @@
+{
+    "N82E16814487526": {
+        "Chipset/GPU Model": "3090",
+        "auction": "False",
+        "price": {
+            "amount": "3999.88",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "EVGA",
+        "memory": "24GB",
+        "upc": "24G-P5-3987-KR",
+        "link number": "1",
+        "link": "https://www.newegg.ca/evga-geforce-rtx-3090-24g-p5-3987-kr/p/N82E16814487526",
+        "vendor": "NewEgg"
+    },
+    "N82E16814126458": {
+        "Chipset/GPU Model": "3070",
+        "auction": "False",
+        "price": {
+            "amount": "1099.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "8GB",
+        "upc": "ROG-STRIX-RTX3070-O8G-GAMING",
+        "link number": "2",
+        "link": "https://www.newegg.ca/asus-geforce-rtx-3070-rog-strix-rtx3070-o8g-gaming/p/N82E16814126458",
+        "vendor": "NewEgg"
+    },
+    "N82E16814126491": {
+        "Chipset/GPU Model": "3060",
+        "auction": "False",
+        "price": {
+            "amount": "699.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "12GB",
+        "upc": "TUF-RTX3060-O12G-GAMING",
+        "link number": "3",
+        "link": "https://www.newegg.ca/asus-geforce-rtx-3060-tuf-rtx3060-o12g-gaming/p/N82E16814126491",
+        "vendor": "NewEgg"
+    },
+    "N82E16814137630": {
+        "Chipset/GPU Model": "3060",
+        "auction": "False",
+        "price": {
+            "amount": "699.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "MSI",
+        "memory": "12GB",
+        "upc": "RTX 3060 Gaming X 12G",
+        "link number": "4",
+        "link": "https://www.newegg.ca/msi-geforce-rtx-3060-rtx-3060-gaming-x-12g/p/N82E16814137630",
+        "vendor": "NewEgg"
+    },
+    "N82E16814487539": {
+        "Chipset/GPU Model": "3060",
+        "auction": "False",
+        "price": {
+            "amount": "549.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "EVGA",
+        "memory": "12GB",
+        "upc": "12G-P5-3657-KR",
+        "link number": "5",
+        "link": "https://www.newegg.ca/evga-geforce-rtx-3060-12g-p5-3657-kr/p/N82E16814487539",
+        "vendor": "NewEgg"
+    },
+    "N82E16814126461": {
+        "Chipset/GPU Model": "3070",
+        "auction": "False",
+        "price": {
+            "amount": "1049.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "8GB",
+        "upc": "TUF-RTX3070-O8G-GAMING",
+        "link number": "6",
+        "link": "https://www.newegg.ca/asus-geforce-rtx-3070-tuf-rtx3070-o8g-gaming/p/N82E16814126461",
+        "vendor": "NewEgg"
+    },
+    "N82E16814487518": {
+        "Chipset/GPU Model": "3080",
+        "auction": "False",
+        "price": {
+            "amount": "1234.49",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "EVGA",
+        "memory": "10GB",
+        "upc": "10G-P5-3897-KR",
+        "link number": "7",
+        "link": "https://www.newegg.ca/evga-geforce-rtx-3080-10g-p5-3897-kr/p/N82E16814487518",
+        "vendor": "NewEgg"
+    },
+    "N82E16814126484": {
+        "Chipset/GPU Model": "3070",
+        "auction": "False",
+        "price": {
+            "amount": "1199.00",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "8GB",
+        "upc": "ROG-STRIX-RTX3070-O8G-WHITE",
+        "link number": "8",
+        "link": "https://www.newegg.ca/asus-geforce-rtx-3070-rog-strix-rtx3070-o8g-white/p/N82E16814126484",
+        "vendor": "NewEgg"
+    },
+    "N82E16814126456": {
+        "Chipset/GPU Model": "3090",
+        "auction": "False",
+        "price": {
+            "amount": "2899.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "24GB",
+        "upc": "ROG-STRIX-RTX3090-O24G-GAMING",
+        "link number": "9",
+        "link": "https://www.newegg.ca/asus-geforce-rtx-3090-rog-strix-rtx3090-o24g-gaming/p/N82E16814126456",
+        "vendor": "NewEgg"
+    },
+    "N82E16814932378": {
+        "Chipset/GPU Model": "3060 ti",
+        "auction": "False",
+        "price": {
+            "amount": "592.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "GIGABYTE",
+        "memory": "8GB",
+        "upc": "GV-N306TEAGLE OC-8GD",
+        "link number": "10",
+        "link": "https://www.newegg.ca/gigabyte-geforce-rtx-3060-ti-gv-n306teagle-oc-8gd/p/N82E16814932378",
+        "vendor": "NewEgg"
+    },
+    "N82E16814932345": {
+        "Chipset/GPU Model": "3080",
+        "auction": "False",
+        "price": {
+            "amount": "1236.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "GIGABYTE",
+        "memory": "10GB",
+        "upc": "GV-N3080AORUS X-10GD",
+        "link number": "11",
+        "link": "https://www.newegg.ca/gigabyte-geforce-rtx-3080-gv-n3080aorus-x-10gd/p/N82E16814932345",
+        "vendor": "NewEgg"
+    },
+    "N82E16814932337": {
+        "Chipset/GPU Model": "3080",
+        "auction": "False",
+        "price": {
+            "amount": "1199.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "GIGABYTE",
+        "memory": "10GB",
+        "upc": "GV-N3080VISION OC-10GD",
+        "link number": "12",
+        "link": "https://www.newegg.ca/gigabyte-geforce-rtx-3080-gv-n3080vision-oc-10gd/p/N82E16814932337",
+        "vendor": "NewEgg"
+    },
+    "N82E16814126454": {
+        "Chipset/GPU Model": "3090",
+        "auction": "False",
+        "price": {
+            "amount": "2699.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "24GB",
+        "upc": "TUF-RTX3090-O24G-GAMING",
+        "link number": "13",
+        "link": "https://www.newegg.ca/asus-geforce-rtx-3090-tuf-rtx3090-o24g-gaming/p/N82E16814126454",
+        "vendor": "NewEgg"
+    },
+    "N82E16814487532": {
+        "Chipset/GPU Model": "3070",
+        "auction": "False",
+        "price": {
+            "amount": "958.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "EVGA",
+        "memory": "8GB",
+        "upc": "08G-P5-3767-KR",
+        "link number": "14",
+        "link": "https://www.newegg.ca/evga-geforce-rtx-3070-08g-p5-3767-kr/p/N82E16814487532",
+        "vendor": "NewEgg"
+    },
+    "N82E16814126485": {
+        "Chipset/GPU Model": "3090",
+        "auction": "False",
+        "price": {
+            "amount": "2799.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "24GB",
+        "upc": "RTX3090-24G-EK",
+        "link number": "15",
+        "link": "https://www.newegg.ca/asus-geforce-rtx-3090-rtx3090-24g-ek/p/N82E16814126485",
+        "vendor": "NewEgg"
+    },
+    "N82E16814137595": {
+        "Chipset/GPU Model": "3090",
+        "auction": "False",
+        "price": {
+            "amount": "2499.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "MSI",
+        "memory": "24GB",
+        "upc": "RTX 3090 GAMING X TRIO 24G",
+        "link number": "16",
+        "link": "https://www.newegg.ca/msi-geforce-rtx-3090-rtx-3090-gaming-x-trio-24g/p/N82E16814137595",
+        "vendor": "NewEgg"
+    },
+    "N82E16814137610": {
+        "Chipset/GPU Model": "3090",
+        "auction": "False",
+        "price": {
+            "amount": "2899.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "MSI",
+        "memory": "24GB",
+        "upc": "RTX 3090 SUPRIM X 24G",
+        "link number": "17",
+        "link": "https://www.newegg.ca/msi-geforce-rtx-3090-rtx3090-suprim-x-24g/p/N82E16814137610",
+        "vendor": "NewEgg"
+    },
+    "N82E16814126482": {
+        "Chipset/GPU Model": "3090",
+        "auction": "False",
+        "price": {
+            "amount": "2799.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "24GB",
+        "upc": "ROG-STRIX-RTX3090-O24G-WHITE",
+        "link number": "18",
+        "link": "https://www.newegg.ca/asus-geforce-rtx-3090-rog-strix-rtx3090-o24g-white/p/N82E16814126482",
+        "vendor": "NewEgg"
+    },
+    "N82E16814126457": {
+        "Chipset/GPU Model": "3080",
+        "auction": "False",
+        "price": {
+            "amount": "1499.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "10GB",
+        "upc": "ROG-STRIX-RTX3080-O10G-GAMING",
+        "link number": "19",
+        "link": "https://www.newegg.ca/asus-geforce-rtx-3080-rog-strix-rtx3080-o10g-gaming/p/N82E16814126457",
+        "vendor": "NewEgg"
+    },
+    "N82E16814487530": {
+        "Chipset/GPU Model": "3070",
+        "auction": "False",
+        "price": {
+            "amount": "889.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "EVGA",
+        "memory": "8GB",
+        "upc": "08G-P5-3755-KR",
+        "link number": "20",
+        "link": "https://www.newegg.ca/evga-geforce-rtx-3070-08g-p5-3755-kr/p/N82E16814487530",
+        "vendor": "NewEgg"
+    },
+    "N82E16814126471": {
+        "Chipset/GPU Model": "3060 ti",
+        "auction": "False",
+        "price": {
+            "amount": "849.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "8GB",
+        "upc": "TUF-RTX3060TI-O8G-GAMING",
+        "link number": "21",
+        "link": "https://www.newegg.ca/asus-geforce-rtx-3060-ti-tuf-rtx3060ti-o8g-gaming/p/N82E16814126471",
+        "vendor": "NewEgg"
+    },
+    "N82E16814500509": {
+        "Chipset/GPU Model": "3060",
+        "auction": "False",
+        "price": {
+            "amount": "658.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ZOTAC",
+        "memory": "12GB",
+        "upc": "ZT-A30600E-10M",
+        "link number": "22",
+        "link": "https://www.newegg.ca/zotac-geforce-rtx-3060-zt-a30600e-10m/p/N82E16814500509",
+        "vendor": "NewEgg"
+    },
+    "N82E16814932399": {
+        "Chipset/GPU Model": "3060",
+        "auction": "False",
+        "price": {
+            "amount": "499.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "GIGABYTE",
+        "memory": "12GB",
+        "upc": "GV-N3060EAGLE-12GD",
+        "link number": "23",
+        "link": "https://www.newegg.ca/gigabyte-geforce-rtx-3060-gv-n3060eagle-12gd/p/N82E16814932399",
+        "vendor": "NewEgg"
+    },
+    "N82E16814137632": {
+        "Chipset/GPU Model": "3060",
+        "auction": "False",
+        "price": {
+            "amount": "699.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "MSI",
+        "memory": "12GB",
+        "upc": "RTX 3060 Ventus 2X 12G OC",
+        "link number": "24",
+        "link": "https://www.newegg.ca/msi-geforce-rtx-3060-rtx-3060-ventus-2x-12g-oc/p/N82E16814137632",
+        "vendor": "NewEgg"
+    },
+    "N82E16814932379": {
+        "Chipset/GPU Model": "3060 ti",
+        "auction": "False",
+        "price": {
+            "amount": "539.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "GIGABYTE",
+        "memory": "8GB",
+        "upc": "GV-N306TEAGLE-8GD",
+        "link number": "25",
+        "link": "https://www.newegg.ca/gigabyte-geforce-rtx-3060-ti-gv-n306teagle-8gd/p/N82E16814932379",
+        "vendor": "NewEgg"
+    },
+    "N82E16814126492": {
+        "Chipset/GPU Model": "3060",
+        "auction": "False",
+        "price": {
+            "amount": "799.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "12GB",
+        "upc": "ROG-STRIX-RTX3060-O12G-GAMING",
+        "link number": "26",
+        "link": "https://www.newegg.ca/asus-geforce-rtx-3060-rog-strix-rtx3060-o12g-gaming/p/N82E16814126492",
+        "vendor": "NewEgg"
+    },
+    "N82E16814487520": {
+        "Chipset/GPU Model": "3080",
+        "auction": "False",
+        "price": {
+            "amount": "1149.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "EVGA",
+        "memory": "10GB",
+        "upc": "10G-P5-3885-KR",
+        "link number": "27",
+        "link": "https://www.newegg.ca/evga-geforce-rtx-3080-10g-p5-3885-kr/p/N82E16814487520",
+        "vendor": "NewEgg"
+    },
+    "N82E16814137600": {
+        "Chipset/GPU Model": "3080",
+        "auction": "False",
+        "price": {
+            "amount": "1109.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "MSI",
+        "memory": "10GB",
+        "upc": "RTX 3080 VENTUS 3X 10G",
+        "link number": "28",
+        "link": "https://www.newegg.ca/msi-geforce-rtx-3080-rtx-3080-ventus-3x-10g/p/N82E16814137600",
+        "vendor": "NewEgg"
+    },
+    "N82E16814137603": {
+        "Chipset/GPU Model": "3070",
+        "auction": "False",
+        "price": {
+            "amount": "899.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "MSI",
+        "memory": "8GB",
+        "upc": "RTX 3070 GAMING X TRIO",
+        "link number": "29",
+        "link": "https://www.newegg.ca/msi-geforce-rtx-3070-rtx-3070-gaming-x-trio/p/N82E16814137603",
+        "vendor": "NewEgg"
+    },
+    "N82E16814500505": {
+        "Chipset/GPU Model": "3070",
+        "auction": "False",
+        "price": {
+            "amount": "851.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ZOTAC",
+        "memory": "8GB",
+        "upc": "ZT-A30700H-10P",
+        "link number": "30",
+        "link": "https://www.newegg.ca/zotac-geforce-rtx-3070-zt-a30700h-10p/p/N82E16814500505",
+        "vendor": "NewEgg"
+    },
+    "N82E16814137597": {
+        "Chipset/GPU Model": "3080",
+        "auction": "False",
+        "price": {
+            "amount": "1499.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "MSI",
+        "memory": "10GB",
+        "upc": "RTX 3080 GAMING X TRIO 10G",
+        "link number": "31",
+        "link": "https://www.newegg.ca/msi-geforce-rtx-3080-rtx-3080-gaming-x-trio-10g/p/N82E16814137597",
+        "vendor": "NewEgg"
+    },
+    "N82E16814487521": {
+        "Chipset/GPU Model": "3080",
+        "auction": "False",
+        "price": {
+            "amount": "1099.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "EVGA",
+        "memory": "10GB",
+        "upc": "10G-P5-3883-KR",
+        "link number": "32",
+        "link": "https://www.newegg.ca/evga-geforce-rtx-3080-10g-p5-3883-kr/p/N82E16814487521",
+        "vendor": "NewEgg"
+    },
+    "N82E16814932367": {
+        "Chipset/GPU Model": "3080",
+        "auction": "False",
+        "price": {
+            "amount": "949.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "GIGABYTE",
+        "memory": "10GB",
+        "upc": "GV-N3080EAGLE-10GD",
+        "link number": "33",
+        "link": "https://www.newegg.ca/gigabyte-geforce-rtx-3080-gv-n3080eagle-10gd/p/N82E16814932367",
+        "vendor": "NewEgg"
+    },
+    "N82E16814500503": {
+        "Chipset/GPU Model": "3090",
+        "auction": "False",
+        "price": {
+            "amount": "3450.00",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ZOTAC",
+        "memory": "24GB",
+        "upc": "ZT-A30900D-10P",
+        "link number": "34",
+        "link": "https://www.newegg.ca/zotac-geforce-rtx-3090-zt-a30900d-10p/p/N82E16814500503",
+        "vendor": "NewEgg"
+    },
+    "N82E16814932330": {
+        "Chipset/GPU Model": "3080",
+        "auction": "False",
+        "price": {
+            "amount": "999.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "GIGABYTE",
+        "memory": "10GB",
+        "upc": "GV-N3080EAGLE OC-10GD",
+        "link number": "35",
+        "link": "https://www.newegg.ca/gigabyte-geforce-rtx-3080-gv-n3080eagle-oc-10gd/p/N82E16814932330",
+        "vendor": "NewEgg"
+    },
+    "N82E16814487519": {
+        "Chipset/GPU Model": "3080",
+        "auction": "False",
+        "price": {
+            "amount": "1149.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "EVGA",
+        "memory": "10GB",
+        "upc": "10G-P5-3895-KR",
+        "link number": "36",
+        "link": "https://www.newegg.ca/evga-geforce-rtx-3080-10g-p5-3895-kr/p/N82E16814487519",
+        "vendor": "NewEgg"
+    }
+}

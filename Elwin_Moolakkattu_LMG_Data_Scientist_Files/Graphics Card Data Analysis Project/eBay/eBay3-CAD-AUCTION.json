@@ -1,0 +1,407 @@
+{
+    "324526429767": {
+        "Chipset/GPU Model": "3070",
+        "auction": "True",
+        "price": {
+            "amount": "1525.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ZOTAC",
+        "memory": "8GB",
+        "upc": "0810012081887",
+        "link number": "5",
+        "link": "https://www.ebay.ca/itm/ZOTAC-GAMING-GeForce-RTX-3070-Twin-Edge-OC-8GB-GDDR6-Graphics-Card-Sealed/324526429767?epid=13041886464&hash=item4b8f485647:g:1IEAAOSwK21gUnB8",
+        "vendor": "Ebay"
+    },
+    "184719541606": {
+        "Chipset/GPU Model": "3090",
+        "auction": "True",
+        "price": {
+            "amount": "3002.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "24GB",
+        "upc": "NA",
+        "link number": "6",
+        "link": "https://www.ebay.ca/itm/Asus-STRIXX-RTX-3090/184719541606?hash=item2b02248566:g:QMIAAOSwh8lgVf4b",
+        "vendor": "Ebay"
+    },
+    "164769958598": {
+        "Chipset/GPU Model": "3070",
+        "auction": "True",
+        "price": {
+            "amount": "1649.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "EVGA",
+        "memory": "8GB",
+        "upc": "NA",
+        "link number": "7",
+        "link": "https://www.ebay.ca/itm/Evga-GeForce-Rtx-3070-XC3-Ultra-Gpu/164769958598?hash=item265d0e0ac6:g:MWkAAOSwxPRgQWey",
+        "vendor": "Ebay"
+    },
+    "114726539899": {
+        "Chipset/GPU Model": "3070",
+        "auction": "True",
+        "price": {
+            "amount": "1525.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "NVIDIA",
+        "memory": "8GB",
+        "upc": "NA",
+        "link number": "10",
+        "link": "https://www.ebay.ca/itm/Nvidia-rtx-3070-EV3A/114726539899?hash=item1ab63c127b:g:anMAAOSwAQJgTiBJ",
+        "vendor": "Ebay"
+    },
+    "224395215309": {
+        "Chipset/GPU Model": "3070",
+        "auction": "True",
+        "price": {
+            "amount": "1375.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "MSI",
+        "brand": "Geforce",
+        "memory": "8GB",
+        "upc": "NA",
+        "link number": "11",
+        "link": "https://www.ebay.ca/itm/MSI-GeForce-RTX-3070-DirectX-12-RTX-3070-GAMING-X-TRIO-8GB-256-Bit-GDDR6-PCI-Exp/224395215309?hash=item343eff41cd:g:xoQAAOSwZoFgV8CY",
+        "vendor": "Ebay"
+    },
+    "184720741609": {
+        "Chipset/GPU Model": "3090",
+        "auction": "True",
+        "price": {
+            "amount": "710.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "MSI",
+        "brand": "Geforce",
+        "memory": "24GB",
+        "upc": "NA",
+        "link number": "14",
+        "link": "https://www.ebay.ca/itm/MSI-RTX-3090-GAMING-X-TRIO-24G/184720741609?hash=item2b0236d4e9:g:tjkAAOSwBrhgV0QA",
+        "vendor": "Ebay"
+    },
+    "233933363133": {
+        "Chipset/GPU Model": "3090",
+        "auction": "True",
+        "price": {
+            "amount": "3600.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "Unbranded",
+        "memory": "24GB",
+        "upc": "NA",
+        "link number": "15",
+        "link": "https://www.ebay.ca/itm/Nvidia-GeForce-RTX-3090-24GB-GDDR6X-Graphics-Card/233933363133?hash=item367783d7bd:g:xhUAAOSwjs1gUg8a",
+        "vendor": "Ebay"
+    },
+    "184719424555": {
+        "Chipset/GPU Model": "3080",
+        "auction": "True",
+        "price": {
+            "amount": "2350.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "EVGA",
+        "memory": "10GB",
+        "upc": "NA",
+        "link number": "16",
+        "link": "https://www.ebay.ca/itm/EVGA-ECX3-RTX-3080/184719424555?hash=item2b0222bc2b:g:2bQAAOSwemVgVfDP",
+        "vendor": "Ebay"
+    },
+    "254909007906": {
+        "Chipset/GPU Model": "NA",
+        "auction": "True",
+        "price": {
+            "amount": "1025.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "NA",
+        "upc": "NA",
+        "link number": "17",
+        "link": "https://www.ebay.ca/itm/ASUS-TUF-Gaming-NVIDIA-GeForce-RTX-3070-OC-Edition-BOX/254909007906?hash=item3b59c2c822:g:ng4AAOSw~xVgVCGK",
+        "vendor": "Ebay"
+    },
+    "174695489606": {
+        "Chipset/GPU Model": "3070",
+        "auction": "True",
+        "price": {
+            "amount": "1525.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "8GB",
+        "upc": "NA",
+        "link number": "18",
+        "link": "https://www.ebay.ca/itm/Asus-ROG-STRIX-RTX-3070-oc/174695489606?hash=item28aca9a046:g:LMcAAOSwz5JgU6oN",
+        "vendor": "Ebay"
+    },
+    "124640515114": {
+        "Chipset/GPU Model": "3080",
+        "auction": "True",
+        "price": {
+            "amount": "2075.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "Alienware",
+        "memory": "10GB",
+        "upc": "NA",
+        "link number": "19",
+        "link": "https://www.ebay.ca/itm/NVIDIA-GeForce-RTX-3080-GRAPHICS-CARD-10GB-GDDR6X-NEW-DELL/124640515114?hash=item1d0527542a:g:NiAAAOSwlYtgUmxQ",
+        "vendor": "Ebay"
+    },
+    "274719290488": {
+        "Chipset/GPU Model": "3090",
+        "auction": "True",
+        "price": {
+            "amount": "4550.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "GIGABYTE",
+        "memory": "24GB",
+        "upc": "NA",
+        "link number": "20",
+        "link": "https://www.ebay.ca/itm/RARE-GIGABYTE-AORUS-GeForce-RTX-3090-XTREME-WATERFORCE-24G/274719290488?hash=item3ff68bb478:g:fHwAAOSwFdRgTVWn",
+        "vendor": "Ebay"
+    },
+    "353421811830": {
+        "Chipset/GPU Model": "NA",
+        "auction": "True",
+        "price": {
+            "amount": "1875.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "Asus",
+        "brand": "Asus",
+        "memory": "NA",
+        "upc": "NA",
+        "link number": "22",
+        "link": "https://www.ebay.ca/itm/RTX-3070-ROG-STRIX-NOT-OPENED-Only-Higher-Than-950-Offers/353421811830?hash=item524994e076:g:cr0AAOSwVJBgRczf",
+        "vendor": "Ebay"
+    },
+    "124640489321": {
+        "Chipset/GPU Model": "3080",
+        "auction": "True",
+        "price": {
+            "amount": "2600.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "10GB",
+        "upc": "NA",
+        "link number": "24",
+        "link": "https://www.ebay.ca/itm/Asus-Tuf-Gaming-NVIDIA-GeForce-RTX-3080-Open-Box-Lightly-Used-For-Gaming/124640489321?hash=item1d0526ef69:g:tpcAAOSwPPZgUmdf",
+        "vendor": "Ebay"
+    },
+    "274726402268": {
+        "Chipset/GPU Model": "3070",
+        "auction": "True",
+        "price": {
+            "amount": "1975.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "AORUS",
+        "memory": "8GB",
+        "upc": "NA",
+        "link number": "25",
+        "link": "https://www.ebay.ca/itm/New-Gigabyte-GeForce-RTX-3070-Aorus-Master-In-Hand-Ready-To-Ship/274726402268?hash=item3ff6f838dc:g:hRYAAOSwqmxgVPmu",
+        "vendor": "Ebay"
+    },
+    "114729249139": {
+        "Chipset/GPU Model": "3060 ti",
+        "auction": "True",
+        "price": {
+            "amount": "1620.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "8GB",
+        "upc": "NA",
+        "link number": "27",
+        "link": "https://www.ebay.ca/itm/Asus-TUF-gaming-Nvidia-Geforce-RTX-3060-TI-OC-New-Sealed/114729249139?hash=item1ab6656973:g:P1YAAOSw-tZgUNes",
+        "vendor": "Ebay"
+    },
+    "133699856939": {
+        "Chipset/GPU Model": "3060",
+        "auction": "True",
+        "price": {
+            "amount": "940.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "12GB",
+        "upc": "0195553058971",
+        "link number": "34",
+        "link": "https://www.ebay.ca/itm/ASUS-ROG-Strix-GeForce-RTX-3060-OC-Edition-12GB-GDDR6-Graphics-Card-Black-ROG/133699856939?epid=15044618955&hash=item1f2121ea2b:g:G40AAOSwqo1gUfRj",
+        "vendor": "Ebay"
+    },
+    "313463650451": {
+        "Chipset/GPU Model": "NA",
+        "auction": "True",
+        "price": {
+            "amount": "1153.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NA",
+        "brand": "NA",
+        "memory": "NA",
+        "upc": "NA",
+        "link number": "41",
+        "link": "https://www.ebay.ca/itm/EVGA-NVIDIA-GeForce-RTX-3060-XC-12GB-DDDR6-Video-Card/313463650451?hash=item48fbe3b893:g:OjYAAOSwCHVgUm7Z",
+        "vendor": "Ebay"
+    },
+    "324529853367": {
+        "Chipset/GPU Model": "3060",
+        "auction": "True",
+        "price": {
+            "amount": "1154.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "NA",
+        "upc": "NA",
+        "link number": "44",
+        "link": "https://www.ebay.ca/itm/ASUS-ROG-Strix-GeForce-RTX-3060-Graphics-Card-with-ROG-650watts-ATX-PSU/324529853367?hash=item4b8f7c93b7:g:eNwAAOSwyThgVUK2",
+        "vendor": "Ebay"
+    },
+    "184713030560": {
+        "Chipset/GPU Model": "3090",
+        "auction": "True",
+        "price": {
+            "amount": "3750.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "GIGABYTE",
+        "memory": "24GB",
+        "upc": "NA",
+        "link number": "49",
+        "link": "https://www.ebay.ca/itm/Gigabyte-GeForce-RTX-3090-Gaming-OC-24G-GDDR6X-GV-N3090GAMING-OC-24GD-Video-Card/184713030560?hash=item2b01c12ba0:g:H7wAAOSwK2xgT-2o",
+        "vendor": "Ebay"
+    },
+    "333930336626": {
+        "Chipset/GPU Model": "3060",
+        "auction": "True",
+        "price": {
+            "amount": "900.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "12GB",
+        "upc": "NA",
+        "link number": "52",
+        "link": "https://www.ebay.ca/itm/NEW-NVIDIA-ASUS-TUF-Gaming-GeForce-RTX-3060-OC-EDITION-12GB-Unopened/333930336626?hash=item4dbfcc9172:g:MzQAAOSwz21gWN0R",
+        "vendor": "Ebay"
+    },
+    "233934544672": {
+        "Chipset/GPU Model": "3060",
+        "auction": "True",
+        "price": {
+            "amount": "1025.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "12GB",
+        "upc": "NA",
+        "link number": "55",
+        "link": "https://www.ebay.ca/itm/NVIDIA-ASUS-TUF-Gaming-GeForce-RTX-3060-OC-EDITION-12GB/233934544672?hash=item367795df20:g:JywAAOSwpOZgU4a8",
+        "vendor": "Ebay"
+    },
+    "254908074133": {
+        "Chipset/GPU Model": "3060 ti",
+        "auction": "True",
+        "price": {
+            "amount": "1699.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "Dell",
+        "memory": "8GB",
+        "upc": "NA",
+        "link number": "56",
+        "link": "https://www.ebay.ca/itm/NVIDIA-GeForce-RTX-3060-Ti-8GB-GDDR6/254908074133?hash=item3b59b48895:g:~-wAAOSwoihgU~ib",
+        "vendor": "Ebay"
+    },
+    "294071517148": {
+        "Chipset/GPU Model": "3060",
+        "auction": "True",
+        "price": {
+            "amount": "1300.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "12GB",
+        "upc": "NA",
+        "link number": "57",
+        "link": "https://www.ebay.ca/itm/asus-rog-strix-rtx-3060/294071517148?hash=item4478073fdc:g:2jQAAOSwmg1gU4iZ",
+        "vendor": "Ebay"
+    },
+    "164766532609": {
+        "Chipset/GPU Model": "3080",
+        "auction": "True",
+        "price": {
+            "amount": "2375.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "10GB",
+        "upc": "NA",
+        "link number": "59",
+        "link": "https://www.ebay.ca/itm/Brand-New-ASUS-TUF-Gaming-GeForce-RTX-3080/164766532609?hash=item265cd9c401:g:xwwAAOSwu7RgU5o4",
+        "vendor": "Ebay"
+    },
+    "294071511721": {
+        "Chipset/GPU Model": "3060",
+        "auction": "True",
+        "price": {
+            "amount": "1300.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "12GB",
+        "upc": "NA",
+        "link number": "67",
+        "link": "https://www.ebay.ca/itm/asus-tuf-gaming-nvidia-geforce-rtx-3060/294071511721?hash=item4478072aa9:g:zsoAAOSwlYtgU36S",
+        "vendor": "Ebay"
+    },
+    "174693443934": {
+        "Chipset/GPU Model": "3070",
+        "auction": "True",
+        "price": {
+            "amount": "1625.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "8GB",
+        "upc": "NA",
+        "link number": "101",
+        "link": "https://www.ebay.ca/itm/Asus-ROG-STRIX-RTX-3070-oc/174693443934?hash=item28ac8a695e:g:LMcAAOSwz5JgU6oN",
+        "vendor": "Ebay"
+    }
+}

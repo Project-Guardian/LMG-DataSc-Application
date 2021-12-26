@@ -1,0 +1,407 @@
+{
+    "164775190252": {
+        "Chipset/GPU Model": "3070",
+        "auction": "False",
+        "price": {
+            "amount": "1750.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "Geforce",
+        "memory": "8GB",
+        "upc": "NA",
+        "link number": "1",
+        "link": "https://www.ebay.ca/itm/NVIDIA-GeForce-RTX-3070-Founders-Edition-8GB-GDDR6-Graphics-Card-IN-HAND-SEALED/164775190252?hash=item265d5ddeec:g:hY4AAOSwyL5gWNP5",
+        "vendor": "Ebay"
+    },
+    "294078774556": {
+        "Chipset/GPU Model": "3080",
+        "auction": "False",
+        "price": {
+            "amount": "2750.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "EVGA",
+        "memory": "10GB",
+        "upc": "NA",
+        "link number": "2",
+        "link": "https://www.ebay.ca/itm/USED-EVGA-GeForce-RTX-3080-XC3-BLACK-GAMING-10G-P5-3881-KR-10GB-GDDR6X/294078774556?hash=item447875fd1c:g:D5AAAOSwNZZgWLhP",
+        "vendor": "Ebay"
+    },
+    "265097679605": {
+        "Chipset/GPU Model": "3060",
+        "auction": "False",
+        "price": {
+            "amount": "1089.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "MSI",
+        "brand": "Geforce",
+        "memory": "12GB",
+        "upc": "NA",
+        "link number": "3",
+        "link": "https://www.ebay.ca/itm/MSI-GeForce-RTX-3060-Ventus-2X-OC-12G/265097679605?hash=item3db90d92f5:g:Q2IAAOSwfK9gWP7~",
+        "vendor": "Ebay"
+    },
+    "164751512288": {
+        "Chipset/GPU Model": "3080",
+        "auction": "False",
+        "price": {
+            "amount": "2550.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "GIGABYTE",
+        "memory": "10GB",
+        "upc": "NA",
+        "link number": "4",
+        "link": "https://www.ebay.ca/itm/GIGABYTE-RTX-3080-GAMING-OC-10G-In-hand-Ready-to-ship/164751512288?hash=item265bf492e0:g:XxYAAOSwzGFgRbKF",
+        "vendor": "Ebay"
+    },
+    "274728996293": {
+        "Chipset/GPU Model": "3090",
+        "auction": "False",
+        "price": {
+            "amount": "3800.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "HP",
+        "memory": "NA",
+        "upc": "NA",
+        "link number": "8",
+        "link": "https://www.ebay.ca/itm/New-GeForce-RTX-3090-from-HP-taken-out-of-HP-Omen-30L/274728996293?hash=item3ff71fcdc5:g:do0AAOSwwk5gV-jA",
+        "vendor": "Ebay"
+    },
+    "164736886382": {
+        "Chipset/GPU Model": "3070",
+        "auction": "False",
+        "price": {
+            "amount": "1600.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "8GB",
+        "upc": "NA",
+        "link number": "9",
+        "link": "https://www.ebay.ca/itm/Asus-RTX-3070-Dual-Series-8g-Ready-to-ship/164736886382?hash=item265b15666e:g:IDwAAOSwGIlgIf4C",
+        "vendor": "Ebay"
+    },
+    "303930207359": {
+        "Chipset/GPU Model": "3060",
+        "auction": "False",
+        "price": {
+            "amount": "1400.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "12GB",
+        "upc": "0195553058971",
+        "link number": "12",
+        "link": "https://www.ebay.ca/itm/ASUS-ROG-Strix-GeForce-RTX-3060-OC-Edition-12GB-GDDR6-Graphics-Card-IN-HAND/303930207359?epid=15044618955&hash=item46c3a6ec7f:g:K1sAAOSwST9gWP8~",
+        "vendor": "Ebay"
+    },
+    "324533983264": {
+        "Chipset/GPU Model": "3070",
+        "auction": "False",
+        "price": {
+            "amount": "1799.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "EVGA",
+        "memory": "8GB",
+        "upc": "0843368067458",
+        "link number": "13",
+        "link": "https://www.ebay.ca/itm/EVGA-GEFORCE-RTX3070-FTW3-ULTRA-GRAPHICS-CARD-NEW-READY-TO-SHIP/324533983264?epid=5040748103&hash=item4b8fbb9820:g:SS0AAOSwzXJgWN0e",
+        "vendor": "Ebay"
+    },
+    "133699865224": {
+        "Chipset/GPU Model": "3060",
+        "auction": "False",
+        "price": {
+            "amount": "1350.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "12GB",
+        "upc": "0195553058971",
+        "link number": "23",
+        "link": "https://www.ebay.ca/itm/ASUS-ROG-Strix-GeForce-RTX-3060-OC-Edition-12GB-GDDR6-Graphics-Card-BRAND-NEW/133699865224?epid=15044618955&hash=item1f21220a88:g:ZCEAAOSwj~RgVoch",
+        "vendor": "Ebay"
+    },
+    "265094327692": {
+        "Chipset/GPU Model": "3070",
+        "auction": "False",
+        "price": {
+            "amount": "1849.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "EVGA",
+        "memory": "8GB",
+        "upc": "NA",
+        "link number": "36",
+        "link": "https://www.ebay.ca/itm/EVGA-GeForce-RTX-3070-XC3-Ultra-8GB-GDDR6-Graphics-Video-Card-NEW/265094327692?hash=item3db8da6d8c:g:hRcAAOSw4sVgSjh6",
+        "vendor": "Ebay"
+    },
+    "133699866895": {
+        "Chipset/GPU Model": "3060",
+        "auction": "False",
+        "price": {
+            "amount": "1250.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "AMD",
+        "brand": "ASUS",
+        "memory": "6GB",
+        "upc": "0192876711958",
+        "link number": "37",
+        "link": "https://www.ebay.ca/itm/ASUS-TUF-Gaming-RTX-3060-12GB-GDDR6-Graphics-Card/133699866895?epid=16040736591&hash=item1f2122110f:g:kY0AAOSwoLFgVof0",
+        "vendor": "Ebay"
+    },
+    "265097796200": {
+        "Chipset/GPU Model": "3060",
+        "auction": "False",
+        "price": {
+            "amount": "925.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "EVGA",
+        "memory": "12GB",
+        "upc": "NA",
+        "link number": "42",
+        "link": "https://www.ebay.ca/itm/EVGA-RTX-3060-XC-12GB-READ-DETAILS/265097796200?hash=item3db90f5a68:g:B2EAAOSwwRFgWR4W",
+        "vendor": "Ebay"
+    },
+    "303930203111": {
+        "Chipset/GPU Model": "3070",
+        "auction": "False",
+        "price": {
+            "amount": "1825.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "8GB",
+        "upc": "NA",
+        "link number": "46",
+        "link": "https://www.ebay.ca/itm/ASUS-TUF-Gaming-NVIDIA-GeForce-RTX-3070-2X-OC-8GB-GDDR6-Video-Card-IN-HAND/303930203111?hash=item46c3a6dbe7:g:jN4AAOSwGn9gWP1s",
+        "vendor": "Ebay"
+    },
+    "384040705954": {
+        "Chipset/GPU Model": "3070",
+        "auction": "False",
+        "price": {
+            "amount": "1877.77",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "8GB",
+        "upc": "NA",
+        "link number": "53",
+        "link": "https://www.ebay.ca/itm/ASUS-TUF-Gaming-NVIDIA-GeForce-RTX-3070-OC-Edition-FREE-SHIP/384040705954?hash=item596a9c1fa2:g:N38AAOSw2gJgVD7J",
+        "vendor": "Ebay"
+    },
+    "303926775290": {
+        "Chipset/GPU Model": "3060",
+        "auction": "False",
+        "price": {
+            "amount": "1250.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "MSI",
+        "memory": "12GB",
+        "upc": "0824142241417",
+        "link number": "54",
+        "link": "https://www.ebay.ca/itm/MSI-GeForce-RTX-3060-GAMING-X-12G-MSI-MPG-A650GF-650W-POWER-SUP/303926775290?epid=26044610140&hash=item46c3728dfa:g:-DMAAOSwJYdgV4~T",
+        "vendor": "Ebay"
+    },
+    "313448921381": {
+        "Chipset/GPU Model": "3080",
+        "auction": "False",
+        "price": {
+            "amount": "3150.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "GIGABYTE",
+        "memory": "10GB",
+        "upc": "NA",
+        "link number": "61",
+        "link": "https://www.ebay.ca/itm/GIGABYTE-GeForce-RTX-3080-GAMING-OC-10G-GDDR6X/313448921381?hash=item48fb02f925:g:JR4AAOSwlYtgSBwf",
+        "vendor": "Ebay"
+    },
+    "353387132368": {
+        "Chipset/GPU Model": "3070",
+        "auction": "False",
+        "price": {
+            "amount": "1899.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "EVGA",
+        "memory": "8GB",
+        "upc": "NA",
+        "link number": "62",
+        "link": "https://www.ebay.ca/itm/EVGA-GeForce-RTX-3070-FTW3-ULTRA-Video-Card-8GB-GDDR6-FAST-SHIPPING/353387132368?hash=item524783b5d0:g:H-8AAOSw4nNgKCpo",
+        "vendor": "Ebay"
+    },
+    "174698095028": {
+        "Chipset/GPU Model": "3090",
+        "auction": "False",
+        "price": {
+            "amount": "4075.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "EVGA",
+        "memory": "24GB",
+        "upc": "NA",
+        "link number": "63",
+        "link": "https://www.ebay.ca/itm/IN-HAND-REAL-New-EVGA-GeForce-RTX-3090-XC3-ULTRA-24GB-GDDR6X-Graphics-Card/174698095028?hash=item28acd161b4:g:3UUAAOSwJy5gNw4-",
+        "vendor": "Ebay"
+    },
+    "303908970027": {
+        "Chipset/GPU Model": "3090",
+        "auction": "False",
+        "price": {
+            "amount": "4999.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "24GB",
+        "upc": "NA",
+        "link number": "80",
+        "link": "https://www.ebay.ca/itm/ASUS-ROG-Strix-GeForce-RTX-3090-OC-24GB-GDDR6X-Graphics-Card-NEW/303908970027?hash=item46c262de2b:g:0EQAAOSw6LRgQaVP",
+        "vendor": "Ebay"
+    },
+    "333930426679": {
+        "Chipset/GPU Model": "3060",
+        "auction": "False",
+        "price": {
+            "amount": "1400.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "ASUS",
+        "memory": "12GB",
+        "upc": "0195553058971",
+        "link number": "91",
+        "link": "https://www.ebay.ca/itm/ASUS-ROG-Strix-GeForce-RTX-3060-OC-Edition-12GB-GDDR6-Graphics-Card-Black/333930426679?epid=15044618955&hash=item4dbfcdf137:g:tAUAAOSw2GFgWO4m",
+        "vendor": "Ebay"
+    },
+    "313461779675": {
+        "Chipset/GPU Model": "3070",
+        "auction": "False",
+        "price": {
+            "amount": "1859.89",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "NVIDIA",
+        "memory": "8GB",
+        "upc": "0812674024516",
+        "link number": "100",
+        "link": "https://www.ebay.ca/itm/NVIDIA-GeForce-RTX-3070-Founders-Edition-8GB-GDDR6-Graphics-Card-Free-Shipping/313461779675?epid=15041887013&hash=item48fbc72cdb:g:ji8AAOSwGkdgVUnh",
+        "vendor": "Ebay"
+    },
+    "193978395903": {
+        "Chipset/GPU Model": "3090",
+        "auction": "False",
+        "price": {
+            "amount": "5999.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "GIGABYTE",
+        "memory": "NA",
+        "upc": "NA",
+        "link number": "120",
+        "link": "https://www.ebay.ca/itm/NVIDIA-GIGABYTE-GeForce-RTX-3090-Graphics-GPU-GDDR6X-24GB-GV-N3090GAMING-OC-24GD/193978395903?hash=item2d2a036cff:g:~vsAAOSw6fhgVaQz",
+        "vendor": "Ebay"
+    },
+    "353401010521": {
+        "Chipset/GPU Model": "3070",
+        "auction": "False",
+        "price": {
+            "amount": "1799.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "EVGA",
+        "memory": "8GB",
+        "upc": "0843368067472",
+        "link number": "124",
+        "link": "https://www.ebay.ca/itm/EVGA-GeForce-RTX-3070-XC3-ULTRA-8GB-GDDR6-Graphics-Card-NEXT-DAY-SHIPPING/353401010521?epid=11040732543&hash=item5248577959:g:iewAAOSwt5ZgOSUe",
+        "vendor": "Ebay"
+    },
+    "174680282285": {
+        "Chipset/GPU Model": "3090",
+        "auction": "False",
+        "price": {
+            "amount": "4750.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "GIGABYTE",
+        "memory": "8GB",
+        "upc": "0889523025031",
+        "link number": "136",
+        "link": "https://www.ebay.ca/itm/NEW-SEALED-GIGABYTE-GeForce-RTX-3090-VISION-OC-8-GB-GDDR6-Graphics-Card/174680282285?epid=27042451253&hash=item28abc194ad:g:P~IAAOSwenZft8wL",
+        "vendor": "Ebay"
+    },
+    "233918051136": {
+        "Chipset/GPU Model": "NA",
+        "auction": "False",
+        "price": {
+            "amount": "4899.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NA",
+        "brand": "NA",
+        "memory": "NA",
+        "upc": "NA",
+        "link number": "225",
+        "link": "https://www.ebay.ca/itm/GeForce-RTX-3090-EVGa-XC3-ultra-In-Hand-Fast-Shipping/233918051136?hash=item36769a3340:g:Zu0AAOSwjOJgCyTe",
+        "vendor": "Ebay"
+    },
+    "224373019445": {
+        "Chipset/GPU Model": "NA",
+        "auction": "False",
+        "price": {
+            "amount": "4000.0",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "EVGA",
+        "memory": "8GB",
+        "upc": "0843368067472",
+        "link number": "228",
+        "link": "https://www.ebay.ca/itm/EVGA-GeForce-RTX-3070-XC3-ULTRA-8GB-GDDR6-Graphics-Card/224373019445?epid=11040732543&hash=item343dac9335:g:3EwAAOSw~zJfa6n-",
+        "vendor": "Ebay"
+    },
+    "174620730427": {
+        "Chipset/GPU Model": "NA",
+        "auction": "False",
+        "price": {
+            "amount": "2999.99",
+            "currency": "CAD"
+        },
+        "manufacturer": "NVIDIA",
+        "brand": "MSI",
+        "memory": "10GB",
+        "upc": "0824142228302",
+        "link number": "337",
+        "link": "https://www.ebay.ca/itm/MSI-GeForce-RTX-3080-GAMING-X-TRIO-10GB-GDDR6X-Graphics-Card/174620730427?epid=8041888279&hash=item28a834e43b:g:jEAAAOSw-DtgGChq",
+        "vendor": "Ebay"
+    }
+}
